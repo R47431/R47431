@@ -5,9 +5,9 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas com experiência prá
 
 ## Habilidades Técnicas
 - **Linguagens de Programação**: Java, Rust, TypeScript, HTML, CSS
-- **Frameworks**: Spring Boot, Angular
 - **Banco de Dados**: MySQL, PostgreSQL
-- **Ferramentas e Tecnologias**: Git
+- **Ferramentas e Tecnologias**: Git, Insomnia, Spring Boot, Angular
+
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/joao-rafael-0a4a51248)
