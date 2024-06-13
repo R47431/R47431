@@ -4,7 +4,7 @@
 Sou um estudante de Análise e Desenvolvimento de Sistemas com experiência prática em projetos próprios de desenvolvimento de software. Tenho conhecimento em Java, frameworks Spring Boot e Angular.
 
 ## Habilidades Técnicas
-- **Linguagens de Programação**: Java, Rust, TypeScript, HTML, CSS
+- **Linguagens de Programação**: Java, TypeScript, HTML, CSS
 - **Banco de Dados**: MySQL, PostgreSQL
 - **Ferramentas e Tecnologias**: Git, Insomnia, Spring Boot, Angular
 
