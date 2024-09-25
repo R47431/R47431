@@ -11,9 +11,6 @@ Desenvolvedor back-end apaixonado por explorar novas tecnologias e construir sol
 ### Tocador de Música em Rust
 Uma aplicação Rust para reprodução e gerenciamento de arquivos de música. Inclui funcionalidades como controle de reprodução, embaralhamento de lista de reprodução e exclusão de faixas.
 
-### Aplicação em Rust com SQLx
-Projeto simples que utiliza a biblioteca SQLx para gerenciar um banco de dados MySQL, permitindo operações CRUD em registros de clientes.
-
 ## Formação
 - **Java OOP - Caelum**: Programação orientada a objetos com foco em polimorfismo, herança e encapsulamento.
 - **Angular & Spring Boot - Udemy**: Desenvolvimento de aplicações fullstack.
